@@ -9,7 +9,7 @@
 
 ```sh
 # cd [PARENT DIR]
-cd C:/JnJ/Developments/Utils/nodejs
+cd C:\JnJ\Developments\Utils\nodejs
 
 # <syntax> xcli -e init -r "[REPO_NAME]||[USER_NAME]||[TEMPLATE_NAME]||[DESCRIPTION]"
 xcli -e init -r "jnu-mm||jnjsoftone||ts-swc-npm||Jnjsoft Nodejs Utility Library for Multi-media(image, audio, video, ...) Management Functions in Typescript"
@@ -17,6 +17,7 @@ xcli -e init -r "jnu-mm||jnjsoftone||ts-swc-npm||Jnjsoft Nodejs Utility Library 
 # package install
 npm install 
 ```
+
 ## functions
 
 
