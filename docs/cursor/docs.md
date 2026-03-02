@@ -1,1 +1,1 @@
-https://swc.rs/docs/configuration/swcrc
+﻿https://swc.rs/docs/configuration/swcrc

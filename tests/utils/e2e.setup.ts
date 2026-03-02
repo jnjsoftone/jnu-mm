@@ -1,4 +1,4 @@
-// E2E 테스트를 위한 전역 설정
+﻿// E2E 테스트를 위한 전역 설정
 import dotenv from 'dotenv';
 
 beforeAll(async () => {

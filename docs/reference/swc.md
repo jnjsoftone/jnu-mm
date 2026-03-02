@@ -1,4 +1,4 @@
-# SWC (Speedy Web Compiler)
+﻿# SWC (Speedy Web Compiler)
 
 ## 개요
 SWC는 Rust로 작성된 매우 빠른 JavaScript/TypeScript 컴파일러입니다. Babel의 대안으로 사용되며, 더 나은 성능을 제공합니다.

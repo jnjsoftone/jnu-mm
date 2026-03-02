@@ -1,4 +1,4 @@
-// 통합 테스트를 위한 전역 설정
+﻿// 통합 테스트를 위한 전역 설정
 import dotenv from 'dotenv';
 
 beforeAll(() => {

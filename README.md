@@ -1,4 +1,4 @@
----
+﻿---
 - name: "jnu-mm"
 - description: "Jnjsoft Nodejs Utility Library for Multi-media(image, audio, video, ...) Management Functions in Typescript"
 - author: "JnJ One <jnjsoft.one@gmail.com>"

@@ -1,4 +1,4 @@
-import { pipeline } from '@xenova/transformers';
+﻿import { pipeline } from '@xenova/transformers';
 import fs from 'fs';
 import path from 'path';
 

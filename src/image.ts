@@ -1,4 +1,4 @@
-import exifr from "exifr";
+﻿import exifr from "exifr";
 import fs from "fs";
 import path from "path";
 import piexif from 'piexifjs';

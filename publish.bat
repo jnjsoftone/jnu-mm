@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 REM [syntax] publish [patch|minor|major] [-m "commit message"]
 REM default: patch, "chore: build for publish"
 
